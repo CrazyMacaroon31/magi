@@ -1,0 +1,21 @@
+{
+  "app": {
+    "version": "d0896984",
+    "versionCode": "316",
+    "link": "managerR.apk",
+    "note": ""
+  },
+  "magisk": {
+    "version": "d0896984",
+    "versionCode": "21102",
+    "link": "magiskr.zip",
+    "note": "",
+    "md5": ""
+  },
+  "uninstaller": {
+    "link": "magisk-uninstaller.zip"
+  },
+  "stub": {
+    "versionCode": "14",
+    "link": "stub-release.apk"
+  }
