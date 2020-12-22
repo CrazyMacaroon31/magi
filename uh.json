@@ -2,17 +2,17 @@
   "app": {
     "version": "d0896984",
     "versionCode": "316",
-    "link": "managerR.apk"
+    "link": "https://raw.githubusercontent.com/CrazyMacaroon31/magi/main/managerR.apk"
   },
   "magisk": {
     "version": "d0896984",
     "versionCode": "21102",
-    "link": "magiskr.zip"
+    "link": "https://raw.githubusercontent.com/CrazyMacaroon31/magi/main/magiskr.zip"
   },
   "uninstaller": {
-    "link": "magisk-uninstaller.zip"
+    "link": "https://raw.githubusercontent.com/CrazyMacaroon31/magi/main/magisk-uninstaller.zip"
   },
   "stub": {
     "versionCode": "14",
-    "link": "stub-release.apk"
+    "link": "https://raw.githubusercontent.com/CrazyMacaroon31/magi/main/stub-release.apk"
   }
